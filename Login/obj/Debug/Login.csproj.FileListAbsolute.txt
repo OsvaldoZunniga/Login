@@ -1,0 +1,20 @@
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\bin\Debug\Login.exe
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\bin\Debug\Login.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\obj\Debug\Login.exe
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\Semana 3\Lab 1\Login\Login\obj\Debug\Login.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\bin\Debug\Login.exe
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\bin\Debug\Login.pdb
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\obj\Debug\Login.FrmLogin.resources
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\obj\Debug\Login.exe
+C:\Users\Osvaldo Zúñiga\Desktop\Ingeniería del software\IV CUATRI\Programacion III\I Proyecto\Login\Login\obj\Debug\Login.pdb
