@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\I Proyecto\\Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A015940-1D05-4E29-AC7D-83378F318500}|Login\\Login.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\i proyecto\\login\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7A015940-1D05-4E29-AC7D-83378F318500}|Login\\Login.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A015940-1D05-4E29-AC7D-83378F318500}|Login\\Login.csproj|C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\I Proyecto\\Login\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A015940-1D05-4E29-AC7D-83378F318500}|Login\\Login.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A015940-1D05-4E29-AC7D-83378F318500}|Login\\Login.csproj|c:\\users\\osvaldo z\u00FA\u00F1iga\\desktop\\ingenier\u00EDa del software\\iv cuatri\\programacion iii\\i proyecto\\login\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A015940-1D05-4E29-AC7D-83378F318500}|Login\\Login.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\I Proyecto\\Login\\Login\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Login\\FrmLogin.cs",
               "ToolTip": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\I Proyecto\\Login\\Login\\FrmLogin.cs",
               "RelativeToolTip": "Login\\FrmLogin.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAtwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T23:15:33.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Osvaldo Z\u00FA\u00F1iga\\Desktop\\Ingenier\u00EDa del software\\IV CUATRI\\Programacion III\\I Proyecto\\Login\\Login\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Login\\FrmLogin.cs",
